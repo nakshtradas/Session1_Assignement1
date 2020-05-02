@@ -36,6 +36,7 @@ Write a Python program to reverse a word after accepting the input from the user
 Sample Output:
 Input word: AcadGild
 Output: dilGdacA
+
 4.
 Write a Python Program to print the given string in the format specified in the sample output.
 WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a
